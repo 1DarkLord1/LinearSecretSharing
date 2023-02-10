@@ -1,0 +1,4539 @@
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 5, field_size = 3
+Iteration #0
+(2, GF([[1, 0, 0],
+    [1, 0, 0],
+    [1, 0, 0],
+    [1, 1, 0],
+    [1, 2, 0],
+    [1, 2, 1]], order=3))
+N = 5, GF(3)
+Checking N = 6, field_size = 3
+Iteration #0
+(2, GF([[1, 0, 0],
+    [1, 0, 0],
+    [1, 0, 0],
+    [1, 1, 0],
+    [1, 2, 0],
+    [1, 2, 1],
+    [1, 1, 1]], order=3))
+N = 6, GF(3)
+Checking N = 7, field_size = 3
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+(2, GF([[1, 0, 0, 0],
+    [1, 0, 0, 0],
+    [1, 0, 0, 0],
+    [1, 2, 0, 0],
+    [1, 1, 0, 0],
+    [1, 1, 1, 0],
+    [1, 2, 1, 0],
+    [1, 1, 1, 1]], order=3))
+N = 7, GF(3)
+Checking N = 8, field_size = 3
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 8, field_size = 5
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+(4, GF([[1, 0, 0, 0],
+    [1, 0, 0, 0],
+    [1, 0, 0, 0],
+    [1, 2, 0, 0],
+    [1, 1, 0, 0],
+    [1, 3, 4, 0],
+    [1, 2, 4, 0],
+    [1, 2, 4, 3],
+    [1, 1, 1, 1]], order=5))
+N = 8, GF(5)
+Checking N = 9, field_size = 5
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+(4, GF([[1, 0, 0, 0, 0],
+    [1, 0, 0, 0, 0],
+    [1, 0, 0, 0, 0],
+    [1, 4, 0, 0, 0],
+    [1, 1, 0, 0, 0],
+    [1, 1, 1, 0, 0],
+    [1, 4, 1, 0, 0],
+    [1, 2, 4, 3, 0],
+    [1, 3, 4, 2, 0],
+    [1, 4, 1, 4, 1]], order=5))
+N = 9, GF(5)
+Checking N = 10, field_size = 5
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 10, field_size = 7
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 10, field_size = 11
+Iteration #0
+Iteration #1
+Iteration #2
+(10, GF([[ 1,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0],
+    [ 1, 10,  0,  0,  0],
+    [ 1,  9,  0,  0,  0],
+    [ 1,  2,  4,  0,  0],
+    [ 1,  1,  1,  0,  0],
+    [ 1,  4,  5,  9,  0],
+    [ 1,  3,  9,  5,  0],
+    [ 1,  8,  9,  6,  4],
+    [ 1, 10,  1, 10,  1]], order=11))
+N = 10, GF(11)
+Checking N = 11, field_size = 11
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+(10, GF([[1, 0, 0, 0, 0, 0],
+    [1, 0, 0, 0, 0, 0],
+    [1, 0, 0, 0, 0, 0],
+    [1, 9, 0, 0, 0, 0],
+    [1, 1, 0, 0, 0, 0],
+    [1, 3, 9, 0, 0, 0],
+    [1, 4, 5, 0, 0, 0],
+    [1, 9, 4, 3, 0, 0],
+    [1, 2, 4, 8, 0, 0],
+    [1, 3, 9, 5, 4, 0],
+    [1, 4, 5, 9, 3, 0],
+    [1, 5, 3, 4, 9, 1]], order=11))
+N = 11, GF(11)
+Checking N = 12, field_size = 11
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 12, field_size = 13
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 12, field_size = 17
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 12, field_size = 19
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+(18, GF([[ 1,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0],
+    [ 1,  8,  0,  0,  0,  0],
+    [ 1,  5,  0,  0,  0,  0],
+    [ 1,  9,  5,  0,  0,  0],
+    [ 1,  7, 11,  0,  0,  0],
+    [ 1, 11,  7,  1,  0,  0],
+    [ 1, 14,  6,  8,  0,  0],
+    [ 1,  9,  5,  7,  6,  0],
+    [ 1,  8,  7, 18, 11,  0],
+    [ 1,  2,  4,  8, 16, 13],
+    [ 1, 12, 11, 18,  7,  8]], order=19))
+N = 12, GF(19)
+Checking N = 13, field_size = 19
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 13, field_size = 23
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 13, field_size = 29
+Iteration #0
+Iteration #1
+Iteration #2
+(28, GF([[ 1,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0],
+    [ 1,  4,  0,  0,  0,  0,  0],
+    [ 1, 23,  0,  0,  0,  0,  0],
+    [ 1, 18,  5,  0,  0,  0,  0],
+    [ 1,  9, 23,  0,  0,  0,  0],
+    [ 1, 14, 22, 18,  0,  0,  0],
+    [ 1,  1,  1,  1,  0,  0,  0],
+    [ 1, 19, 13, 15, 24,  0,  0],
+    [ 1,  7, 20, 24, 23,  0,  0],
+    [ 1,  4, 16,  6, 24,  9,  0],
+    [ 1,  8,  6, 19,  7, 27,  0],
+    [ 1, 28,  1, 28,  1, 28,  1]], order=29))
+N = 13, GF(29)
+Checking N = 14, field_size = 29
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 14, field_size = 31
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 14, field_size = 37
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 14, field_size = 41
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 14, field_size = 43
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 14, field_size = 47
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 14, field_size = 53
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+(52, GF([[ 1,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0],
+    [ 1,  3,  0,  0,  0,  0,  0],
+    [ 1, 10,  0,  0,  0,  0,  0],
+    [ 1,  4, 16,  0,  0,  0,  0],
+    [ 1, 15, 13,  0,  0,  0,  0],
+    [ 1, 12, 38, 32,  0,  0,  0],
+    [ 1, 27, 40, 20,  0,  0,  0],
+    [ 1, 31,  7,  5, 49,  0,  0],
+    [ 1, 16, 44, 15, 28,  0,  0],
+    [ 1, 43, 47,  7, 36, 11,  0],
+    [ 1, 41, 38, 21, 13,  3,  0],
+    [ 1, 32, 17, 14, 24, 26, 37],
+    [ 1, 23, 52, 30,  1, 23, 52]], order=53))
+N = 14, GF(53)
+Checking N = 15, field_size = 53
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 15, field_size = 59
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 15, field_size = 61
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+(60, GF([[ 1,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  6,  0,  0,  0,  0,  0,  0],
+    [ 1, 40,  0,  0,  0,  0,  0,  0],
+    [ 1, 16, 12,  0,  0,  0,  0,  0],
+    [ 1, 30, 46,  0,  0,  0,  0,  0],
+    [ 1, 28, 52, 53,  0,  0,  0,  0],
+    [ 1, 39, 57, 27,  0,  0,  0,  0],
+    [ 1, 56, 25, 58, 15,  0,  0,  0],
+    [ 1, 53,  3, 37,  9,  0,  0,  0],
+    [ 1, 41, 34, 52, 58, 60,  0,  0],
+    [ 1,  6, 36, 33, 15, 29,  0,  0],
+    [ 1, 10, 39, 24, 57, 21, 27,  0],
+    [ 1, 16, 12,  9, 22, 47, 20,  0],
+    [ 1, 36, 15, 52, 42, 48, 20, 49]], order=61))
+N = 15, GF(61)
+Checking N = 16, field_size = 61
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 67
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 71
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 73
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 79
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 83
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 89
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 97
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 101
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 103
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 107
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 109
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 113
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 127
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 131
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 16, field_size = 137
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+(136, GF([[  1,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 105,   0,   0,   0,   0,   0,   0],
+    [  1,  22,   0,   0,   0,   0,   0,   0],
+    [  1, 135,   4,   0,   0,   0,   0,   0],
+    [  1, 105,  65,   0,   0,   0,   0,   0],
+    [  1,  38,  74,  72,   0,   0,   0,   0],
+    [  1,  19,  87,   9,   0,   0,   0,   0],
+    [  1, 115,  73,  38, 123,   0,   0,   0],
+    [  1, 130,  49,  68,  72,   0,   0,   0],
+    [  1,  41,  37,  10, 136,  96,   0,   0],
+    [  1,   3,   9,  27,  81, 106,   0,   0],
+    [  1,  43,  68,  47, 103,  45,  17,   0],
+    [  1,  88,  72,  34, 115, 119,  60,   0],
+    [  1, 111, 128,  97,  81,  86,  93,  48],
+    [  1,  99,  74,  65, 133,  15, 115,  14]], order=137))
+N = 16, GF(137)
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 17, field_size = 137
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 17, field_size = 139
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 17, field_size = 149
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 17, field_size = 151
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 17, field_size = 157
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 17, field_size = 163
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 17, field_size = 167
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+(166, GF([[  1,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 107,   0,   0,   0,   0,   0,   0,   0],
+    [  1,  92,   0,   0,   0,   0,   0,   0,   0],
+    [  1,  44,  99,   0,   0,   0,   0,   0,   0],
+    [  1,  12, 144,   0,   0,   0,   0,   0,   0],
+    [  1, 148,  27, 155,   0,   0,   0,   0,   0],
+    [  1, 144,  28,  24,   0,   0,   0,   0,   0],
+    [  1, 121, 112,  25,  19,   0,   0,   0,   0],
+    [  1, 104, 128, 119,  18,   0,   0,   0,   0],
+    [  1,  27,  61, 144,  47, 100,   0,   0,   0],
+    [  1,  54,  77, 150,  84,  27,   0,   0,   0],
+    [  1,  65,  50,  77, 162,   9,  84,   0,   0],
+    [  1,  99, 115,  29,  32, 162,   6,   0,   0],
+    [  1,  75, 114,  33, 137,  88,  87,  12,   0],
+    [  1, 135,  22, 131, 150,  43, 127, 111,   0],
+    [  1,  86,  48, 120, 133,  82,  38,  95, 154]], order=167))
+N = 17, GF(167)
+Checking N = 18, field_size = 167
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 173
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 179
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 181
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 191
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 193
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 197
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 199
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 211
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 223
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 227
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 229
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 233
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 239
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 241
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 251
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 257
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+Iteration #4
+Iteration #5
+Iteration #6
+Iteration #7
+Iteration #8
+Iteration #9
+Iteration #10
+Iteration #11
+Iteration #12
+Iteration #13
+Iteration #14
+Iteration #15
+Iteration #16
+Iteration #17
+Iteration #18
+Iteration #19
+Iteration #20
+Iteration #21
+Iteration #22
+Iteration #23
+Iteration #24
+Iteration #25
+Iteration #26
+Iteration #27
+Iteration #28
+Iteration #29
+Iteration #30
+Iteration #31
+Iteration #32
+Iteration #33
+Iteration #34
+Iteration #35
+Iteration #36
+Iteration #37
+Iteration #38
+Iteration #39
+Iteration #40
+Iteration #41
+Iteration #42
+Iteration #43
+Iteration #44
+Iteration #45
+Iteration #46
+Iteration #47
+Iteration #48
+Iteration #49
+Checking N = 18, field_size = 263
+Iteration #0
+Iteration #1
+Iteration #2
+Iteration #3
+
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 16, field_size = 61
+Iteration #0
+(60, GF([[ 1,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 39,  0,  0,  0,  0,  0,  0],
+    [ 1, 54,  0,  0,  0,  0,  0,  0],
+    [ 1, 13, 47,  0,  0,  0,  0,  0],
+    [ 1, 54, 49,  0,  0,  0,  0,  0],
+    [ 1, 25, 15,  9,  0,  0,  0,  0],
+    [ 1, 16, 12,  9,  0,  0,  0,  0],
+    [ 1, 50, 60, 11,  1,  0,  0,  0],
+    [ 1, 28, 52, 53, 20,  0,  0,  0],
+    [ 1, 42, 56, 34, 25, 13,  0,  0],
+    [ 1, 39, 57, 27, 16, 14,  0,  0],
+    [ 1, 31, 46, 23, 42, 21, 41,  0],
+    [ 1, 20, 34,  9, 58,  1, 20,  0],
+    [ 1, 31, 46, 23, 42, 21, 41, 51],
+    [ 1, 36, 15, 52, 42, 48, 20, 49]], order=61))
+N = 16, GF(61)
+Checking N = 17, field_size = 61
+Iteration #0
+(60, GF([[ 1,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 55,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 59,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 57, 16,  0,  0,  0,  0,  0,  0],
+    [ 1, 49, 22,  0,  0,  0,  0,  0,  0],
+    [ 1, 29, 48, 50,  0,  0,  0,  0,  0],
+    [ 1,  6, 36, 33,  0,  0,  0,  0,  0],
+    [ 1, 17, 45, 33, 12,  0,  0,  0,  0],
+    [ 1, 10, 39, 24, 57,  0,  0,  0,  0],
+    [ 1, 55, 36, 28, 15, 32,  0,  0,  0],
+    [ 1, 16, 12,  9, 22, 47,  0,  0,  0],
+    [ 1, 38, 41, 33, 34, 11, 52,  0,  0],
+    [ 1,  7, 49, 38, 22, 32, 41,  0,  0],
+    [ 1, 39, 57, 27, 16, 14, 58,  5,  0],
+    [ 1, 41, 34, 52, 58, 60, 20, 27,  0],
+    [ 1, 59,  4, 53, 16, 29,  3, 55, 12]], order=61))
+N = 17, GF(61)
+Checking N = 18, field_size = 61
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #16
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #16
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+Backtracking started on iteration #16
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #18
+Iteration #10
+Backtracking started on iteration #18
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #18
+Iteration #13
+Backtracking started on iteration #16
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+Backtracking started on iteration #18
+Iteration #16
+Backtracking started on iteration #18
+Iteration #17
+Backtracking started on iteration #18
+Iteration #18
+Backtracking started on iteration #18
+Iteration #19
+Backtracking started on iteration #18
+Iteration #20
+Backtracking started on iteration #18
+Iteration #21
+Backtracking started on iteration #18
+Iteration #22
+Backtracking started on iteration #18
+Iteration #23
+Backtracking started on iteration #18
+Iteration #24
+Backtracking started on iteration #18
+Iteration #25
+Backtracking started on iteration #18
+Iteration #26
+Backtracking started on iteration #18
+Iteration #27
+Backtracking started on iteration #18
+Iteration #28
+Backtracking started on iteration #18
+Iteration #29
+Backtracking started on iteration #18
+Iteration #30
+Backtracking started on iteration #16
+Iteration #31
+Backtracking started on iteration #18
+Iteration #32
+Backtracking started on iteration #16
+Iteration #33
+Backtracking started on iteration #18
+Iteration #34
+Backtracking started on iteration #18
+Iteration #35
+Backtracking started on iteration #16
+Iteration #36
+Backtracking started on iteration #18
+Iteration #37
+Backtracking started on iteration #18
+Iteration #38
+Backtracking started on iteration #18
+Iteration #39
+Backtracking started on iteration #18
+Iteration #40
+Backtracking started on iteration #18
+Iteration #41
+Backtracking started on iteration #18
+Iteration #42
+Backtracking started on iteration #18
+Iteration #43
+Backtracking started on iteration #18
+Iteration #44
+Backtracking started on iteration #18
+Iteration #45
+Backtracking started on iteration #16
+Iteration #46
+Backtracking started on iteration #18
+Iteration #47
+Backtracking started on iteration #18
+Iteration #48
+Backtracking started on iteration #18
+Iteration #49
+Backtracking started on iteration #18
+Checking N = 18, field_size = 67
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #16
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #16
+Iteration #7
+Backtracking started on iteration #18
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #16
+Iteration #10
+Backtracking started on iteration #18
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #16
+Iteration #13
+Backtracking started on iteration #18
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 18, field_size = 83
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+(82, GF([[ 1,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 48,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 65,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 13,  3,  0,  0,  0,  0,  0,  0],
+    [ 1, 21, 26,  0,  0,  0,  0,  0,  0],
+    [ 1, 54, 11, 13,  0,  0,  0,  0,  0],
+    [ 1, 43, 23, 76,  0,  0,  0,  0,  0],
+    [ 1, 57, 12, 20, 61,  0,  0,  0,  0],
+    [ 1,  9, 81, 65,  4,  0,  0,  0,  0],
+    [ 1, 15, 59, 55, 78,  8,  0,  0,  0],
+    [ 1, 73, 17, 79, 40, 15,  0,  0,  0],
+    [ 1,  5, 25, 42, 44, 54, 21,  0,  0],
+    [ 1, 55, 37, 43, 41, 14, 23,  0,  0],
+    [ 1, 34, 77, 45, 36, 62, 33, 43,  0],
+    [ 1, 21, 26, 48, 12,  3, 63, 78,  0],
+    [ 1, 44, 27, 26, 65, 38, 12, 30, 75],
+    [ 1, 41, 21, 31, 26, 70, 48, 59, 12]], order=83))
+N = 18, GF(83)
+Checking N = 19, field_size = 83
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+Backtracking started on iteration #18
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #18
+Iteration #10
+Backtracking started on iteration #18
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #18
+Iteration #13
+Backtracking started on iteration #18
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+Backtracking started on iteration #18
+Iteration #16
+Backtracking started on iteration #18
+Iteration #17
+Backtracking started on iteration #18
+Iteration #18
+Backtracking started on iteration #18
+Iteration #19
+Backtracking started on iteration #18
+Iteration #20
+Backtracking started on iteration #18
+Iteration #21
+Backtracking started on iteration #18
+Iteration #22
+
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 19, field_size = 89
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+Backtracking started on iteration #18
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #18
+Iteration #10
+Backtracking started on iteration #18
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #18
+Iteration #13
+Backtracking started on iteration #18
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+Backtracking started on iteration #18
+Iteration #16
+Backtracking started on iteration #18
+Iteration #17
+Backtracking started on iteration #18
+Iteration #18
+Backtracking started on iteration #18
+Iteration #19
+Backtracking started on iteration #18
+Iteration #20
+Backtracking started on iteration #18
+Iteration #21
+Backtracking started on iteration #18
+Iteration #22
+Backtracking started on iteration #18
+Iteration #23
+Backtracking started on iteration #18
+Iteration #24
+Backtracking started on iteration #18
+Iteration #25
+Backtracking started on iteration #18
+Iteration #26
+Backtracking started on iteration #18
+Iteration #27
+Backtracking started on iteration #18
+Iteration #28
+Backtracking started on iteration #18
+Iteration #29
+Backtracking started on iteration #18
+Iteration #30
+Backtracking started on iteration #18
+Iteration #31
+Backtracking started on iteration #18
+Iteration #32
+Backtracking started on iteration #18
+Iteration #33
+Backtracking started on iteration #18
+Iteration #34
+Backtracking started on iteration #18
+Iteration #35
+Backtracking started on iteration #18
+Iteration #36
+Backtracking started on iteration #18
+Iteration #37
+Backtracking started on iteration #18
+Iteration #38
+Backtracking started on iteration #18
+Iteration #39
+Backtracking started on iteration #18
+Iteration #40
+Backtracking started on iteration #18
+Iteration #41
+Backtracking started on iteration #18
+Iteration #42
+Backtracking started on iteration #18
+Iteration #43
+Backtracking started on iteration #18
+Iteration #44
+Backtracking started on iteration #18
+Iteration #45
+Backtracking started on iteration #18
+Iteration #46
+Backtracking started on iteration #18
+Iteration #47
+Backtracking started on iteration #18
+Iteration #48
+Backtracking started on iteration #18
+Iteration #49
+Backtracking started on iteration #18
+Checking N = 19, field_size = 97
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+(96, GF([[ 1,  0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 16,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 81,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 17, 95,  0,  0,  0,  0,  0,  0,  0],
+    [ 1, 40, 48,  0,  0,  0,  0,  0,  0,  0],
+    [ 1,  8, 64, 27,  0,  0,  0,  0,  0,  0],
+    [ 1, 66, 88, 85,  0,  0,  0,  0,  0,  0],
+    [ 1, 88, 81, 47, 62,  0,  0,  0,  0,  0],
+    [ 1, 62, 61, 96, 35,  0,  0,  0,  0,  0],
+    [ 1, 51, 79, 52, 33, 34,  0,  0,  0,  0],
+    [ 1, 23, 44, 42, 93,  5,  0,  0,  0,  0],
+    [ 1, 12, 47, 79, 75, 27, 33,  0,  0,  0],
+    [ 1,  1,  1,  1,  1,  1,  1,  0,  0,  0],
+    [ 1, 28,  8, 30, 64, 46, 27, 77,  0,  0],
+    [ 1, 91, 36, 75, 35, 81, 96,  6,  0,  0],
+    [ 1, 30, 27, 34, 50, 45, 89, 51, 75,  0],
+    [ 1, 84, 72, 34, 43, 23, 89,  7,  6,  0],
+    [ 1, 86, 24, 27, 91, 66, 50, 32, 36, 89]], order=97))
+N = 19, GF(97)
+Checking N = 20, field_size = 97
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+Backtracking started on iteration #18
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #18
+Iteration #10
+Backtracking started on iteration #18
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #18
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+Backtracking started on iteration #18
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #18
+Iteration #18
+Backtracking started on iteration #18
+Iteration #19
+Backtracking started on iteration #18
+Iteration #20
+Backtracking started on iteration #20
+Iteration #21
+Backtracking started on iteration #18
+Iteration #22
+Backtracking started on iteration #18
+Iteration #23
+Backtracking started on iteration #18
+Iteration #24
+Backtracking started on iteration #18
+Iteration #25
+Backtracking started on iteration #18
+Iteration #26
+Backtracking started on iteration #18
+Iteration #27
+Backtracking started on iteration #18
+Iteration #28
+Backtracking started on iteration #18
+Iteration #29
+Backtracking started on iteration #18
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #18
+Iteration #32
+Backtracking started on iteration #18
+Iteration #33
+Backtracking started on iteration #18
+Iteration #34
+Backtracking started on iteration #18
+Iteration #35
+Backtracking started on iteration #18
+Iteration #36
+Backtracking started on iteration #18
+Iteration #37
+Backtracking started on iteration #18
+Iteration #38
+Backtracking started on iteration #18
+Iteration #39
+Backtracking started on iteration #18
+Iteration #40
+Backtracking started on iteration #18
+Iteration #41
+Backtracking started on iteration #18
+Iteration #42
+Backtracking started on iteration #18
+Iteration #43
+Backtracking started on iteration #18
+Iteration #44
+Backtracking started on iteration #18
+Iteration #45
+Backtracking started on iteration #20
+Iteration #46
+Backtracking started on iteration #18
+Iteration #47
+Backtracking started on iteration #18
+Iteration #48
+Backtracking started on iteration #18
+Iteration #49
+Backtracking started on iteration #18
+Checking N = 20, field_size = 101
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+Backtracking started on iteration #18
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #18
+Iteration #10
+Backtracking started on iteration #18
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #18
+Iteration #13
+Backtracking started on iteration #18
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+Backtracking started on iteration #18
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #18
+Iteration #18
+Backtracking started on iteration #20
+Iteration #19
+Backtracking started on iteration #18
+Iteration #20
+Backtracking started on iteration #18
+Iteration #21
+Backtracking started on iteration #18
+Iteration #22
+Backtracking started on iteration #18
+Iteration #23
+Backtracking started on iteration #18
+Iteration #24
+Backtracking started on iteration #18
+Iteration #25
+Backtracking started on iteration #18
+Iteration #26
+Backtracking started on iteration #18
+Iteration #27
+Backtracking started on iteration #20
+Iteration #28
+Backtracking started on iteration #18
+Iteration #29
+Backtracking started on iteration #18
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #18
+Iteration #32
+Backtracking started on iteration #18
+Iteration #33
+Backtracking started on iteration #18
+Iteration #34
+Backtracking started on iteration #18
+Iteration #35
+Backtracking started on iteration #18
+Iteration #36
+Backtracking started on iteration #18
+Iteration #37
+Backtracking started on iteration #18
+Iteration #38
+Backtracking started on iteration #18
+Iteration #39
+Backtracking started on iteration #18
+Iteration #40
+Backtracking started on iteration #18
+Iteration #41
+Backtracking started on iteration #18
+Iteration #42
+Backtracking started on iteration #18
+Iteration #43
+Backtracking started on iteration #18
+Iteration #44
+Backtracking started on iteration #18
+Iteration #45
+Backtracking started on iteration #18
+Iteration #46
+Backtracking started on iteration #18
+Iteration #47
+Backtracking started on iteration #18
+Iteration #48
+Backtracking started on iteration #18
+Iteration #49
+Backtracking started on iteration #18
+Checking N = 20, field_size = 103
+Iteration #0
+Backtracking started on iteration #18
+Iteration #1
+Backtracking started on iteration #18
+Iteration #2
+Backtracking started on iteration #18
+Iteration #3
+Backtracking started on iteration #18
+Iteration #4
+Backtracking started on iteration #18
+Iteration #5
+Backtracking started on iteration #18
+Iteration #6
+Backtracking started on iteration #18
+Iteration #7
+Backtracking started on iteration #18
+Iteration #8
+Backtracking started on iteration #18
+Iteration #9
+Backtracking started on iteration #18
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #18
+Iteration #12
+Backtracking started on iteration #18
+Iteration #13
+Backtracking started on iteration #18
+Iteration #14
+Backtracking started on iteration #18
+Iteration #15
+Backtracking started on iteration #18
+Iteration #16
+Backtracking started on iteration #18
+Iteration #17
+Backtracking started on iteration #18
+Iteration #18
+Backtracking started on iteration #18
+Iteration #19
+Backtracking started on iteration #18
+Iteration #20
+Backtracking started on iteration #18
+Iteration #21
+Backtracking started on iteration #18
+Iteration #22
+Backtracking started on iteration #18
+Iteration #23
+Backtracking started on iteration #18
+Iteration #24
+Backtracking started on iteration #18
+Iteration #25
+Backtracking started on iteration #18
+Iteration #26
+Backtracking started on iteration #18
+Iteration #27
+Backtracking started on iteration #18
+Iteration #28
+
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 20, field_size = 181
+Iteration #0
+Backtracking started on iteration #20
+Iteration #1
+Backtracking started on iteration #20
+Iteration #2
+Backtracking started on iteration #20
+Iteration #3
+Backtracking started on iteration #20
+Iteration #4
+Backtracking started on iteration #20
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #20
+Iteration #7
+Backtracking started on iteration #20
+Iteration #8
+Backtracking started on iteration #20
+Iteration #9
+Backtracking started on iteration #20
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #20
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #20
+Iteration #14
+Backtracking started on iteration #20
+Iteration #15
+Backtracking started on iteration #20
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #20
+Iteration #18
+Backtracking started on iteration #20
+Iteration #19
+Backtracking started on iteration #20
+Iteration #20
+Backtracking started on iteration #20
+Iteration #21
+Backtracking started on iteration #20
+Iteration #22
+Backtracking started on iteration #20
+Iteration #23
+Backtracking started on iteration #20
+Iteration #24
+Backtracking started on iteration #20
+Iteration #25
+Backtracking started on iteration #20
+Iteration #26
+Backtracking started on iteration #20
+Iteration #27
+Backtracking started on iteration #20
+Iteration #28
+Backtracking started on iteration #20
+Iteration #29
+Backtracking started on iteration #20
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #20
+Iteration #32
+Backtracking started on iteration #20
+Iteration #33
+Backtracking started on iteration #20
+Iteration #34
+Backtracking started on iteration #20
+Iteration #35
+Backtracking started on iteration #20
+Iteration #36
+Backtracking started on iteration #20
+Iteration #37
+Backtracking started on iteration #20
+Iteration #38
+Backtracking started on iteration #20
+Iteration #39
+Backtracking started on iteration #20
+Iteration #40
+Backtracking started on iteration #20
+Iteration #41
+Backtracking started on iteration #20
+Iteration #42
+Backtracking started on iteration #20
+Iteration #43
+Backtracking started on iteration #20
+Iteration #44
+Backtracking started on iteration #20
+Iteration #45
+Backtracking started on iteration #20
+Iteration #46
+Backtracking started on iteration #20
+Iteration #47
+Backtracking started on iteration #20
+Iteration #48
+Backtracking started on iteration #20
+Iteration #49
+Backtracking started on iteration #20
+Checking N = 20, field_size = 191
+Iteration #0
+Backtracking started on iteration #20
+Iteration #1
+Backtracking started on iteration #20
+Iteration #2
+Backtracking started on iteration #20
+Iteration #3
+Backtracking started on iteration #20
+Iteration #4
+Backtracking started on iteration #20
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #20
+Iteration #7
+Backtracking started on iteration #20
+Iteration #8
+Backtracking started on iteration #20
+Iteration #9
+Backtracking started on iteration #20
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #20
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #20
+Iteration #14
+Backtracking started on iteration #20
+Iteration #15
+Backtracking started on iteration #20
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #20
+Iteration #18
+Backtracking started on iteration #20
+Iteration #19
+Backtracking started on iteration #20
+Iteration #20
+Backtracking started on iteration #20
+Iteration #21
+Backtracking started on iteration #20
+Iteration #22
+Backtracking started on iteration #20
+Iteration #23
+Backtracking started on iteration #20
+Iteration #24
+Backtracking started on iteration #20
+Iteration #25
+Backtracking started on iteration #20
+Iteration #26
+Backtracking started on iteration #20
+Iteration #27
+Backtracking started on iteration #20
+Iteration #28
+Backtracking started on iteration #20
+Iteration #29
+Backtracking started on iteration #20
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #20
+Iteration #32
+Backtracking started on iteration #20
+Iteration #33
+Backtracking started on iteration #20
+Iteration #34
+Backtracking started on iteration #20
+Iteration #35
+Backtracking started on iteration #20
+Iteration #36
+Backtracking started on iteration #20
+Iteration #37
+Backtracking started on iteration #20
+Iteration #38
+Backtracking started on iteration #20
+Iteration #39
+Backtracking started on iteration #20
+Iteration #40
+Backtracking started on iteration #20
+Iteration #41
+Backtracking started on iteration #20
+Iteration #42
+Backtracking started on iteration #20
+Iteration #43
+Backtracking started on iteration #20
+Iteration #44
+Backtracking started on iteration #20
+Iteration #45
+Backtracking started on iteration #20
+Iteration #46
+Backtracking started on iteration #20
+Iteration #47
+Backtracking started on iteration #20
+Iteration #48
+Backtracking started on iteration #20
+Iteration #49
+Backtracking started on iteration #20
+Checking N = 20, field_size = 193
+Iteration #0
+Backtracking started on iteration #20
+Iteration #1
+Backtracking started on iteration #20
+Iteration #2
+Backtracking started on iteration #20
+Iteration #3
+Backtracking started on iteration #20
+Iteration #4
+Backtracking started on iteration #20
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #20
+Iteration #7
+Backtracking started on iteration #20
+Iteration #8
+Backtracking started on iteration #20
+Iteration #9
+Backtracking started on iteration #20
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #20
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #20
+Iteration #14
+Backtracking started on iteration #20
+Iteration #15
+Backtracking started on iteration #20
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #20
+Iteration #18
+Backtracking started on iteration #20
+Iteration #19
+Backtracking started on iteration #20
+Iteration #20
+Backtracking started on iteration #20
+Iteration #21
+Backtracking started on iteration #20
+Iteration #22
+Backtracking started on iteration #20
+Iteration #23
+Backtracking started on iteration #20
+Iteration #24
+Backtracking started on iteration #20
+Iteration #25
+Backtracking started on iteration #20
+Iteration #26
+Backtracking started on iteration #20
+Iteration #27
+Backtracking started on iteration #20
+Iteration #28
+Backtracking started on iteration #20
+Iteration #29
+Backtracking started on iteration #20
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #20
+Iteration #32
+Backtracking started on iteration #20
+Iteration #33
+Backtracking started on iteration #20
+Iteration #34
+Backtracking started on iteration #20
+Iteration #35
+Backtracking started on iteration #20
+Iteration #36
+Backtracking started on iteration #20
+Iteration #37
+Backtracking started on iteration #20
+Iteration #38
+Backtracking started on iteration #20
+Iteration #39
+(192, GF([[  1,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,  39,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,  83,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,  94, 151,   0,   0,   0,   0,   0,   0,   0],
+    [  1,  71,  23,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 181, 144,   9,   0,   0,   0,   0,   0,   0],
+    [  1, 152, 137, 173,   0,   0,   0,   0,   0,   0],
+    [  1,  73, 118, 122,  28,   0,   0,   0,   0,   0],
+    [  1, 144,  85,  81,  84,   0,   0,   0,   0,   0],
+    [  1,   5,  25, 125,  46,  37,   0,   0,   0,   0],
+    [  1,  35,  67,  29,  50,  13,   0,   0,   0,   0],
+    [  1, 161,  59,  42,   7, 162,  27,   0,   0,   0],
+    [  1,  47,  86, 182,  62,  19, 121,   0,   0,   0],
+    [  1,   9,  81, 150, 192, 184, 112,  43,   0,   0],
+    [  1,  75,  28, 170,  12, 128, 143, 110,   0,   0],
+    [  1, 154, 170, 125, 143,  20, 185, 119, 184,   0],
+    [  1,  28,  12, 143, 144, 172, 184, 134,  85,   0],
+    [  1, 127, 110,  74, 134,  34,  72,  73,   7, 117],
+    [  1, 111, 162,  33, 189, 135, 124,  61,  16,  39]], order=193))
+N = 20, GF(193)
+Checking N = 21, field_size = 193
+Iteration #0
+Backtracking started on iteration #20
+Iteration #1
+Backtracking started on iteration #20
+Iteration #2
+Backtracking started on iteration #20
+Iteration #3
+Backtracking started on iteration #20
+Iteration #4
+Backtracking started on iteration #20
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #20
+Iteration #7
+Backtracking started on iteration #20
+Iteration #8
+Backtracking started on iteration #20
+Iteration #9
+Backtracking started on iteration #20
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #20
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #20
+Iteration #14
+Backtracking started on iteration #20
+Iteration #15
+Backtracking started on iteration #20
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #20
+Iteration #18
+Backtracking started on iteration #20
+Iteration #19
+Backtracking started on iteration #20
+Iteration #20
+Backtracking started on iteration #20
+Iteration #21
+Backtracking started on iteration #20
+Iteration #22
+Backtracking started on iteration #20
+Iteration #23
+Backtracking started on iteration #20
+Iteration #24
+Backtracking started on iteration #20
+Iteration #25
+Backtracking started on iteration #20
+Iteration #26
+Backtracking started on iteration #20
+Iteration #27
+Backtracking started on iteration #20
+Iteration #28
+Backtracking started on iteration #20
+Iteration #29
+Backtracking started on iteration #20
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #20
+Iteration #32
+Backtracking started on iteration #20
+Iteration #33
+Backtracking started on iteration #20
+Iteration #34
+Backtracking started on iteration #20
+Iteration #35
+Backtracking started on iteration #20
+Iteration #36
+Backtracking started on iteration #20
+Iteration #37
+Backtracking started on iteration #20
+Iteration #38
+Backtracking started on iteration #20
+Iteration #39
+Backtracking started on iteration #20
+Iteration #40
+Backtracking started on iteration #20
+Iteration #41
+Backtracking started on iteration #20
+Iteration #42
+Backtracking started on iteration #20
+Iteration #43
+Backtracking started on iteration #20
+Iteration #44
+Backtracking started on iteration #20
+Iteration #45
+Backtracking started on iteration #20
+Iteration #46
+Backtracking started on iteration #20
+Iteration #47
+Backtracking started on iteration #20
+Iteration #48
+Backtracking started on iteration #20
+Iteration #49
+Backtracking started on iteration #20
+Checking N = 21, field_size = 197
+Iteration #0
+Backtracking started on iteration #20
+Iteration #1
+Backtracking started on iteration #20
+Iteration #2
+Backtracking started on iteration #20
+Iteration #3
+Backtracking started on iteration #20
+Iteration #4
+Backtracking started on iteration #20
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #20
+Iteration #7
+Backtracking started on iteration #20
+Iteration #8
+Backtracking started on iteration #20
+Iteration #9
+Backtracking started on iteration #20
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #20
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #20
+Iteration #14
+Backtracking started on iteration #20
+Iteration #15
+Backtracking started on iteration #20
+Iteration #16
+Backtracking started on iteration #20
+Iteration #17
+Backtracking started on iteration #20
+Iteration #18
+Backtracking started on iteration #20
+Iteration #19
+Backtracking started on iteration #20
+Iteration #20
+Backtracking started on iteration #20
+Iteration #21
+Backtracking started on iteration #20
+Iteration #22
+Backtracking started on iteration #20
+Iteration #23
+Backtracking started on iteration #20
+Iteration #24
+Backtracking started on iteration #20
+Iteration #25
+Backtracking started on iteration #20
+Iteration #26
+Backtracking started on iteration #20
+Iteration #27
+Backtracking started on iteration #20
+Iteration #28
+Backtracking started on iteration #20
+Iteration #29
+Backtracking started on iteration #20
+Iteration #30
+Backtracking started on iteration #20
+Iteration #31
+Backtracking started on iteration #20
+Iteration #32
+Backtracking started on iteration #20
+Iteration #33
+Backtracking started on iteration #20
+Iteration #34
+Backtracking started on iteration #20
+Iteration #35
+Backtracking started on iteration #20
+Iteration #36
+Backtracking started on iteration #20
+Iteration #37
+Backtracking started on iteration #20
+Iteration #38
+Backtracking started on iteration #20
+Iteration #39
+Backtracking started on iteration #20
+Iteration #40
+Backtracking started on iteration #20
+Iteration #41
+Backtracking started on iteration #20
+Iteration #42
+Backtracking started on iteration #20
+Iteration #43
+Backtracking started on iteration #20
+Iteration #44
+Backtracking started on iteration #20
+Iteration #45
+Backtracking started on iteration #20
+Iteration #46
+Backtracking started on iteration #20
+Iteration #47
+Backtracking started on iteration #20
+Iteration #48
+Backtracking started on iteration #20
+Iteration #49
+Backtracking started on iteration #20
+Checking N = 21, field_size = 199
+Iteration #0
+Backtracking started on iteration #20
+Iteration #1
+Backtracking started on iteration #20
+Iteration #2
+Backtracking started on iteration #20
+Iteration #3
+Backtracking started on iteration #20
+Iteration #4
+Backtracking started on iteration #20
+Iteration #5
+Backtracking started on iteration #20
+Iteration #6
+Backtracking started on iteration #20
+Iteration #7
+Backtracking started on iteration #20
+Iteration #8
+Backtracking started on iteration #20
+Iteration #9
+Backtracking started on iteration #20
+Iteration #10
+Backtracking started on iteration #20
+Iteration #11
+Backtracking started on iteration #20
+Iteration #12
+Backtracking started on iteration #20
+Iteration #13
+Backtracking started on iteration #20
+Iteration #14
+Backtracking started on iteration #20
+Iteration #15
+Process Process-26610:
+Process Process-26609:
+Process Process-26611:
+Process Process-26613:
+Process Process-26614:
+Traceback (most recent call last):
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/main.py", line 67, in <module>
+    check()
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/main.py", line 55, in check
+    print(dealer.build_sharing_matrix())
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 166, in build_sharing_matrix
+    current_roots_count = self.__build_sharing_matrix_step(h)
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 123, in __build_sharing_matrix_step
+    roots = self.__collect_all_roots(h, level)
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 104, in __collect_all_roots
+    result = results.get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 97, in get
+    res = self._recv_bytes()
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 55, in _collect_roots
+    roots_batch = _get_roots_batch(sharing_matrix[list(indices)],
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 17, in _get_roots_batch
+    kernel = span.null_space()
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 55, in _collect_roots
+    roots_batch = _get_roots_batch(sharing_matrix[list(indices)],
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1325, in null_space
+    return (A.T).left_null_space()  # pylint: disable=no-member
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 17, in _get_roots_batch
+    kernel = span.null_space()
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1270, in left_null_space
+    AI_rre, p = _linalg.row_reduce_jit(field)(AI, ncols=n)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1325, in null_space
+    return (A.T).left_null_space()  # pylint: disable=no-member
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_linalg.py", line 286, in __call__
+    A_rre[idxs, :] -= np.multiply.outer(A_rre[idxs, j], A_rre[p, :])
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1270, in left_null_space
+    AI_rre, p = _linalg.row_reduce_jit(field)(AI, ncols=n)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 658, in __array_ufunc__
+    meta["types"] = [type(inputs[i]) for i in range(len(inputs))]
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_linalg.py", line 286, in __call__
+    A_rre[idxs, :] -= np.multiply.outer(A_rre[idxs, j], A_rre[p, :])
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 680, in __array_ufunc__
+    return getattr(field, field._OVERRIDDEN_UFUNCS[ufunc])(ufunc, method, inputs, kwargs, meta)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 396, in __call__
+    output = getattr(self.ufunc, method)(*inputs, **kwargs)
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 76, in ufunc
+    return self.jit_lookup
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 126, in jit_lookup
+    key_1 = (self.field.characteristic, self.field.degree, int(self.field.irreducible_poly))
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 55, in _collect_roots
+    roots_batch = _get_roots_batch(sharing_matrix[list(indices)],
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 26, in _get_roots_batch
+    gl.Poly(np.flip(normal), field=field).roots().flatten()))
+KeyboardInterrupt
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_polys/_poly.py", line 126, in __init__
+    if self._coeffs[0] == 0:
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_array.py", line 488, in __getitem__
+    item = self.__class__(item, dtype=self.dtype)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 67, in __new__
+    return super().__new__(cls, x, dtype, copy, order, ndmin)
+Traceback (most recent call last):
+KeyboardInterrupt
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_array.py", line 51, in __new__
+    x = cls._verify_array_like_types_and_values(x)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 133, in _verify_array_like_types_and_values
+    cls._verify_scalar_value(x)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 168, in _verify_scalar_value
+    if not 0 <= scalar < cls.order:
+KeyboardInterrupt
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 55, in _collect_roots
+    roots_batch = _get_roots_batch(sharing_matrix[list(indices)],
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 17, in _get_roots_batch
+    kernel = span.null_space()
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1325, in null_space
+    return (A.T).left_null_space()  # pylint: disable=no-member
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1270, in left_null_space
+    AI_rre, p = _linalg.row_reduce_jit(field)(AI, ncols=n)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_linalg.py", line 281, in __call__
+    A_rre[p, :] /= A_rre[p, j]
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 680, in __array_ufunc__
+    return getattr(field, field._OVERRIDDEN_UFUNCS[ufunc])(ufunc, method, inputs, kwargs, meta)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 433, in __call__
+    output = self._view_output_as_field(output, self.field, meta["dtype"])
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 325, in _view_output_as_field
+    return field._view(output.astype(dtype))
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_array.py", line 131, in _view
+    array = array.view(cls)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 55, in _collect_roots
+    roots_batch = _get_roots_batch(sharing_matrix[list(indices)],
+  File "/home/dword/Desktop/Files/reps/LinearSecretSharing/dealer.py", line 17, in _get_roots_batch
+    kernel = span.null_space()
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1325, in null_space
+    return (A.T).left_null_space()  # pylint: disable=no-member
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 1270, in left_null_space
+    AI_rre, p = _linalg.row_reduce_jit(field)(AI, ncols=n)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_linalg.py", line 286, in __call__
+    A_rre[idxs, :] -= np.multiply.outer(A_rre[idxs, j], A_rre[p, :])
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 680, in __array_ufunc__
+    return getattr(field, field._OVERRIDDEN_UFUNCS[ufunc])(ufunc, method, inputs, kwargs, meta)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 396, in __call__
+    output = getattr(self.ufunc, method)(*inputs, **kwargs)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 76, in ufunc
+    return self.jit_lookup
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_ufunc.py", line 127, in jit_lookup
+    key_2 = (str(self.__class__), int(self.field.primitive_element))
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_meta.py", line 262, in primitive_element
+    return super().primitive_element
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_meta.py", line 167, in primitive_element
+    return cls(cls._primitive_element)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_fields/_array.py", line 67, in __new__
+    return super().__new__(cls, x, dtype, copy, order, ndmin)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_array.py", line 55, in __new__
+    return cls._view(array)
+  File "/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/lib/python3.8/site-packages/galois/_domains/_array.py", line 130, in _view
+    with cls._view_without_verification():
+  File "/usr/lib/python3.8/contextlib.py", line 240, in helper
+    return _GeneratorContextManager(func, args, kwds)
+  File "/usr/lib/python3.8/contextlib.py", line 83, in __init__
+    self.gen = func(*args, **kwds)
+KeyboardInterrupt
+
+Process finished with exit code 137 (interrupted by signal 9: SIGKILL)
+
+/home/dword/.local/share/virtualenvs/LinearSecretSharing-CJrWUR20/bin/python /home/dword/Desktop/Files/reps/LinearSecretSharing/main.py
+Checking N = 21, field_size = 283
+Iteration #0
+(282, GF([[  1,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 205,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 153,   0,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 144,  77,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 179,  62,   0,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 280,   9, 256,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 236, 228,  38,   0,   0,   0,   0,   0,   0,   0],
+    [  1, 155, 253, 161,  51,   0,   0,   0,   0,   0,   0],
+    [  1,  32, 175, 223,  61,   0,   0,   0,   0,   0,   0],
+    [  1, 172, 152, 108, 181,   2,   0,   0,   0,   0,   0],
+    [  1, 179,  62,  61, 165, 103,   0,   0,   0,   0,   0],
+    [  1, 237, 135,  16, 113, 179, 256,   0,   0,   0,   0],
+    [  1, 157,  28, 151, 218, 266, 161,   0,   0,   0,   0],
+    [  1, 121, 208, 264, 248,  10,  78,  99,   0,   0,   0],
+    [  1, 236, 228,  38, 195, 174,  29,  52,   0,   0,   0],
+    [  1, 247, 164,  39,  11, 170, 106, 146, 121,   0,   0],
+    [  1,  66, 111, 251, 152, 127, 175, 230, 181,   0,   0],
+    [  1,  51,  54, 207,  86, 141, 116, 256,  38, 240,   0],
+    [  1, 276,  49, 223, 137, 173, 204, 270,  91, 212,   0],
+    [  1, 241,  66,  58, 111, 149, 251, 212, 152, 125, 127]], order=283))
+N = 21, GF(283)
+
+Process finished with exit code 0
